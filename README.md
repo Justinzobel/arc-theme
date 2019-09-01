@@ -1,4 +1,10 @@
-# Arc Theme
+# Arc Theme - Nord Recolour
+
+Original README below.
+
+Forked to re-colour with the [Nord Colour Scheme](https://github.com/arcticicestudio/nord)
+
+---------
 
 Arc is a flat theme with transparent elements for GTK 3, GTK 2 and GNOME Shell which supports GTK 3 and GTK 2 based desktop environments like GNOME, Unity, Budgie, Pantheon, Xfce, MATE, etc.
 
